@@ -1,6 +1,6 @@
 # Tutorials
 
-This repository contains various tutorials on python, data science, and machine learning written by Ted Petrou with [Dunder Data][0].
+This repository contains various tutorials on python, data science, and machine learning within Jupyter Notebooks written by Ted Petrou with [Dunder Data][0].
 
 ## Completing the Tutorials
 
@@ -24,4 +24,4 @@ Sample my material by taking my [free Intro to Pandas class][4].
 [1]: https://www.dunderdata.com/exercise-python
 [2]: https://www.dunderdata.com/master-data-analysis-with-python
 [3]: https://www.dunderdata.com/master-machine-learning-with-python
-[4]: https://www.dunderdata.com/all-in-person-courses
+[4]: https://www.dunderdata.com/https://www.dunderdata.com/intro-to-pandas
